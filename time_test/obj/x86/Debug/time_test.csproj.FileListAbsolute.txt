@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\语句执行时间测试\time_test\bin\Debug\time_test.exe
+C:\Users\Administrator\Desktop\语句执行时间测试\time_test\bin\Debug\time_test.pdb
+C:\Users\Administrator\Desktop\语句执行时间测试\time_test\obj\x86\Debug\time_test.exe
+C:\Users\Administrator\Desktop\语句执行时间测试\time_test\obj\x86\Debug\time_test.pdb
